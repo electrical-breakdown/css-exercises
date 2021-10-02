@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.pink {
+
+    background-color: lightcoral;
+    
+}
+
+#blue-guy {
+
+    color: blue;
+    font-size: 36px;
+}
+
+.big-guy {
+
+    font-size: 24px;
+}
+
+#unique {
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
